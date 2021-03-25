@@ -1,0 +1,13 @@
+body{
+    background-image: url('../img/BackGround.jpg');
+}
+.container{
+    border-radius: 1in;
+    background-color: #212529de;
+}
+.carousel{
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+
